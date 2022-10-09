@@ -23,4 +23,4 @@ console.log(senna);
 //Deletar um elemento
 pilotos.splice(1, 1);
 
-console.log(pilotos);
+console.log(pilotos);   
